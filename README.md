@@ -1,2 +1,2 @@
 # alx-system_engineering-devops
-This is second project as an ALX Full Stack Software Engineer. It is project to enable understand shell basics  
+This is my second project as an ALX Full Stack Software Engineer. It is to enable me understand shell basics.
