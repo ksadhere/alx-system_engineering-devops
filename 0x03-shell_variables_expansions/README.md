@@ -1,36 +1,36 @@
 #DESCRIPTION OF SHELL VARIABLES AND EXPANSIONS PROJECT TASKS
-0-alias ----- a script that creates an alias.
+File 0-alias is a script that creates an alias.
 
-1-hello_you ----- a script that prints hello user, where user is the current Linux user.
+File 1-hello_you is a script that prints hello user, where user is the current Linux user.
 
-2-path ---- a script that add /action to the PATH. /action should be the last directory the shell looks into when looking for a program.
+File 2-path is a script that adds /action to the PATH.
 
-3-paths --- a script that counts the number of directories in the PATH.
+File 3-paths is a script that counts the number of directories in the PATH.
 
-4-global_variables 
+File 4-global_variables is a script that lists environment variables.
 
-5-local_variables 
+File 5-local_variables is a script that lists all local variables and environment variables, and functions.
 
-6-create_local_variable 
+File 6-create_local_variable is a script that creates a new local variable.
 
-7-create_global_variable 
+File 7-create_global_variable is a script that creates a new global variable.
 
-8-true_knowledge 
+File 8-true_knowledge is a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
 
-9-divide_and_rule 
+File 9-divide_and_rule is a script that prints the result of POWER divided by DIVIDE, followed by a new line.
 
-10-love_exponent_breath 
+File 10-love_exponent_breath is a script that displays the result of BREATH to the power LOVE.
 
-11-binary_to_decimal 
+File 11-binary_to_decimal is a script that converts a number from base 2 to base 10.
 
-12-combinations 
+File 12-combinations is a script that prints all possible combinations of two letters, except oo.
 
-13-print_float 
+File 13-print_float is a script that prints a number with two decimal places.
 
-100-decimal_to_hexadecimal 
+File 100-decimal_to_heaxadecimal is a script that converts a number from base 10 to base 16.
 
-101-rot13 
+File 101-rot13 is a script that encodes and decodes text using the rot13 encryption.
 
-102-odd 
+File 102-odd is a script that prints every other line from the input, starting with the first line.
 
-103-water_and_stir
+File 103-water_and_stir is a shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result.
